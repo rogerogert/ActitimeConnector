@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "ActitimeConnector", "ActitimeConnector.mproj", "{319E0A08-1C3A-449A-8DE0-234372B811D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319E0A08-1C3A-449A-8DE0-234372B811D0}.Debug|x86.ActiveCfg = Debug|x86
+		{319E0A08-1C3A-449A-8DE0-234372B811D0}.Debug|x86.Build.0 = Debug|x86
+		{319E0A08-1C3A-449A-8DE0-234372B811D0}.Release|x86.ActiveCfg = Release|x86
+		{319E0A08-1C3A-449A-8DE0-234372B811D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41283367-BD8C-4C91-907D-78FB483E9E49}
+	EndGlobalSection
+EndGlobal
